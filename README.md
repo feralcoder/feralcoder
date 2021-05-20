@@ -11,10 +11,10 @@ Some work in electronics: power supply, microcrontrollers for sensing and contro
 
 
 ## Learning
-Remediating my system skills by diving into BPF and performance / tracing tools (a la B Gregg).
-Hardening my Python chops with guided exercises and readings (Fluent Python - L Ramalho; Hitchiker's Guide to Python - Reitz & Schlusser).
-Self-guided projects deploying and using data stores (Cassandra, MariaDB Column Store, HBase).
-OpenStack - Fully HA deployment on Ceph, with Octavia load balancing, Magnum container orchestrator, many more bells and whistles.
+Remediating my system skills by diving into BPF and performance / tracing tools (a la B Gregg).  
+Hardening my Python chops with guided exercises and readings (Fluent Python - L Ramalho; Hitchiker's Guide to Python - Reitz & Schlusser).  
+Self-guided projects deploying and using data stores (Cassandra, MariaDB Column Store, HBase).  
+OpenStack - Fully HA deployment on Ceph, with Octavia load balancing, Magnum container orchestrator, many more bells and whistles.  
 
 
 ## Collaborate?
