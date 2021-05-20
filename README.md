@@ -56,7 +56,6 @@ transcode management, etc.
             - _Bonnaroo-2022-Day-1
             - _Bonnaroo-2022-Day-2
             - _Bonnaroo-2022-Day-3
-        - AND
-            - Song in list:
-                - Bonnaroo-2022-Selected
-            - OR Rating >= 4
+        - AND Rating >= 4
+        - OR song in list:
+            - Bonnaroo-2022-Selected
