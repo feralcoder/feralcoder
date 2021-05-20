@@ -4,9 +4,9 @@ f--------r@g---l.com
 ## Interests
 Any form of mechanical or material hackery:  Wood, auto, textiles, agricultural...
 
-In IT, everything between the wall outlet and user. 
-Sysops, netops, SRE are all in my professional toolbox. 
-More recent proficiencies in API, frontend, and GUI development. 
+In IT, everything between the wall outlet and user.  
+Sysops, netops, SRE are all in my professional toolbox.  
+More recent proficiencies in API, frontend, and GUI development.  
 Some work in electronics: power supply, microcrontrollers for sensing and control apps...
 
 
