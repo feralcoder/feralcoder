@@ -1,5 +1,5 @@
 ## I'm feralcoder!
-f********r@g***l.com
+f--------r@g---l.com
 
 ## Interests
 Any form of mechanical or material hackery:  Wood, auto, textiles, agricultural...
@@ -26,7 +26,7 @@ in many cases.  Poor areas aren't deploying basic technologies that would allow 
 Sensing devices which could be implemented on Arduino with cheap components are instead still being sold as expensive industrial
 devices.  At 1/50 the price, one could afford to deploy a sea of unreliable devices, increasing coverage, granularity, and reliability.
 
-Playlister.  Remember iTunes?  That was the last useful playlist / device manager.  It supported more ratings than just "love".  It had smart playlists.  
+Playlister.  Remember iTunes?  That was the last useful playlist / device manager.  It supported more ratings than just "love".  It had smart playlists.
 My goal is to build a collection manager which manages metadata and allows smart playlist generation based on metadata or text matching.
 Of course static playlists would be also supported.  Trees of lists and conditionals could be composed for generating well-tuned dynamic lists.
 Initial version in development is limited to local music, and manages syncing of songs to playback device / storage, alongside xspf playlist files.
